@@ -1,2 +1,2 @@
-# Prime-Number-API
+# Prime Number API
  
