@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './App.css';
 
-const App = () => {
+const Primes = () => {
 
     const [inputNumber, setInputNumber] = useState("");
     const [primeNumbers, setPrimeNumbers] = useState([]);
@@ -58,4 +58,4 @@ const App = () => {
   )
 }
 
-export default App;
+export default Primes;
